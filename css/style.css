@@ -1,0 +1,44 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size:100%;
+    font-weight: 400;
+}
+
+h1{
+    font-family: Calibri, sans-serif;
+    color: white;
+    text-align: center;
+    background-color: rgb(46, 47, 66);
+    padding-block: 20px;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    font-family: 'Raleway', sans-serif;
+}
+
+a{
+    cursor:pointer;
+}
+
+a:hover{
+    background-color:rgb(46, 47, 66);
+    color: white;
+    padding: 5px;
+}
+
+#logo{
+    color:rgb(73, 85, 209);
+}
+
+footer{
+    font-family: Calibri, sans-serif;
+        color: white;
+        text-align: left;
+        padding-left: 40px;
+        background-color: rgb(46, 47, 66);
+        padding-block: 20px;
+}
