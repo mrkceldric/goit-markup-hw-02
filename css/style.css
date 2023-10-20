@@ -30,9 +30,6 @@ a:hover{
     padding: 5px;
 }
 
-#logo{
-    color:rgb(73, 85, 209);
-}
 
 footer{
     font-family: Calibri, sans-serif;
@@ -42,3 +39,9 @@ footer{
         background-color: rgb(46, 47, 66);
         padding-block: 20px;
 }
+
+.color-change-on-hover:hover{
+    color: red;
+    /* Change to the desired color when hovered */
+}
+
